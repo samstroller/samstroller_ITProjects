@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Samuel! <br/><a href="https://github.com/joshmadakor1">IT Systems Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Networking</a>, <a href="https://www.youtube.com/c/joshmadakor">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
